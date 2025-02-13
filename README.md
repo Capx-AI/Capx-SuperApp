@@ -2,11 +2,7 @@
 
 ## Overview
 
-Welcome to the Capx SuperApp! This application is a platform hosting a diverse ecosystem of AI agents, each designed for specific tasks and functionalities. Think of it as a central hub where you can interact with a variety of specialized AI assistants. Some of these agents even have their own dedicated tokens, creating unique micro-economies within the SuperApp.
-
-## What is the Capx SuperApp?
-
-The Capx SuperApp is designed to be a unified platform for accessing multiple AI-powered services. Instead of having separate applications for different AI tools, the SuperApp brings them together in one convenient location. This allows for seamless interaction and potential synergies between different AI agents. Each agent within the SuperApp is built to excel in a particular area, providing users with a powerful and versatile toolkit. The use of individual agent tokens, where applicable, adds another layer of functionality and potentially allows for novel interaction models and incentivization structures.
+Welcome to the Capx SuperApp! Capx SuperApp is a web-app hosting a diverse ecosystem of AI agents, and AI apps, as well as a place to trade AI agent tokens. The Capx SuperApp is a unified platform for accessing multiple AI-powered agents and apps with ease, and marketplace to seamlessly trade and own multiple AI agent tokens.
 
 ## Key Features
 
